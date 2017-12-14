@@ -1,0 +1,65 @@
+<?php
+/**
+ *
+ * Copyright (c) 2017.  收菜网
+ * Date: 2017/10/24
+ * Time: 12:06
+ */
+return [
+    [
+        'module_name'=>'系统管理',
+        'module_icon'=>'',
+        'child_menu'=>[
+            ['name'=>'','uri'=>'','icon'=>'','is_menu'=>true]
+        ]
+    ],
+    [
+        'module_name'=>'资讯管理',
+        'module_icon'=>'',
+        'child_menu'=>[
+            ['name'=>'','uri'=>'','icon'=>'','is_menu'=>true]
+        ]
+    ],
+    [
+        'module_name'=>'会员管理',
+        'module_icon'=>'',
+        'child_menu'=>[
+            ['name'=>'','uri'=>'','icon'=>'','is_menu'=>true]
+        ]
+    ],
+    [
+        'module_name'=>'竞猜管理',
+        'module_icon'=>'',
+        'child_menu'=>[
+            ['name'=>'','uri'=>'','icon'=>'','is_menu'=>true]
+        ]
+    ],
+    [
+        'module_name'=>'商城管理',
+        'module_icon'=>'',
+        'child_menu'=>[
+            ['name'=>'','uri'=>'','icon'=>'','is_menu'=>true]
+        ]
+    ],
+    [
+        'module_name'=>'社区管理',
+        'module_icon'=>'',
+        'child_menu'=>[
+            ['name'=>'','uri'=>'','icon'=>'','is_menu'=>true]
+        ]
+    ],
+    [
+        'module_name'=>'运营管理',
+        'module_icon'=>'',
+        'child_menu'=>[
+            ['name'=>'','uri'=>'','icon'=>'','is_menu'=>true]
+        ]
+    ],
+    [
+        'module_name'=>'数据统计',
+        'module_icon'=>'',
+        'child_menu'=>[
+            ['name'=>'','uri'=>'','icon'=>'','is_menu'=>true]
+        ]
+    ]
+];
